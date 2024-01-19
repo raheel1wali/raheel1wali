@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg)](https://github.com/raheel1wali)
+[![MasterHead](https://raheel1wali.github.io/resume/assets/images/bgcoding.jpg)](https://github.com/raheel1wali)
 <h1 align="center">Hi 👋, I'm Raheel Wali</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER</h3>
 <img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
